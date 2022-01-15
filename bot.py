@@ -7,9 +7,9 @@ import datetime
 import aiohttp
 import asyncio
 
-api_id = int("API ID")
-api_hash = "API HASH"
-bot_token = "BOT TOKEN"
+api_id = int("7122114")
+api_hash = "3ff382cb976bdf8aead9359f2c352ac1"
+bot_token = "2033518274:AAEui4qfA_Thp8IvdaPj6Z5IxcmgEalqks0"
 
 download_path = "Downloads/"
 
